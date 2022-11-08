@@ -1,3 +1,1 @@
-# pokedex
-escritorio sim
-# pokedexnovo
+# pokedex-app
